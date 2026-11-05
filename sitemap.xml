@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://eabuisa.github.io/cancer-surveillance/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/</loc><priority>1.0</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/sites.html</loc><priority>0.8</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/breast-dcis-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/breast-invasive-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/malignant-pleural-mesothelioma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/non-small-cell-lung-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/small-cell-lung-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/thymomas-and-thymic-carcinoma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/anal-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/biliary-tract-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/colon-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/esophageal-ge-junction-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/gastric-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/gastrointestinal-stromal-tumor-gist-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/hepatocellular-carcinoma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/neuroendocrine-tumors-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/pancreatic-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/rectal-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/small-bowel-adenocarcinoma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/bladder-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/kidney-cancer-rcc-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/penile-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/prostate-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/testicular-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/upper-tract-urothelial-carcinoma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/cervical-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/endometrial-uterine-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/ovarian-cancer-incl-fallopian-tube-primary-peritoneal-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/vaginal-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/vulvar-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/head-and-neck-cancers-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/thyroid-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/basal-cell-skin-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/melanoma-cutaneous-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/melanoma-uveal-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/merkel-cell-carcinoma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/squamous-cell-skin-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/cll-sll-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/diffuse-large-b-cell-lymphoma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/follicular-lymphoma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/hodgkin-lymphoma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/multiple-myeloma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/cns-tumors-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/meningioma-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/bone-cancer-surveillance.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/cancer-surveillance/soft-tissue-sarcoma-surveillance.html</loc><priority>0.7</priority></url>
 </urlset>
